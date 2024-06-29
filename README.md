@@ -86,7 +86,7 @@
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##Acknowledgements
+## Acknowledgements
 • Tkinter for the GUI
 
 • OpenCV for image processing
